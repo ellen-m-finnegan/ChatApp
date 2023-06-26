@@ -1,4 +1,5 @@
 ChatApp
+<br />
 A Chat App made in Java for Network Technologies module of H.Dip in Soft. Dev. that allows communication between a Server and Client.
 Description:
 •	ChatClient: Allows messages to be received
